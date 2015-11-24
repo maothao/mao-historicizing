@@ -1,5 +1,5 @@
 nav {
-  font-size: 90%;
+  font-size: 100%;
 }
 
 a:link {
@@ -23,9 +23,29 @@ a {
 }
 
 h1 {
-  font-size: 300%;
+  font-size: 330%;
 }
 
 p {
-  font-size: 130%;
+  font-size: 150%;
+  padding top: 60px;
+  padding bottom: 60px;
+}
+
+h1, h3 {
+  padding-top: 40px;
+  padding bottom: 40px;
+}
+
+p, h3 {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+ul {
+  font-size: 120%;
+}
+
+img {
+  margin: 10px;
 }
