@@ -23,6 +23,11 @@ a {
   color: inherit;
 }
 
+
+body {
+  font-family: Avenir Next Regular;
+}
+
 h1 {
   font-size: 250%;
 }
