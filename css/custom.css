@@ -33,6 +33,10 @@ p {
   padding bottom: 30px;
 }
 
+p1 {
+  font-style: italic;
+}
+
 h1, h3 {
   padding-top: 30px;
   padding bottom: 30px;
