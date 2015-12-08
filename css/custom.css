@@ -59,7 +59,7 @@ p {
 
 p.indent {
   font-style: italic, bold;
-  text-indent: 100px;
+  margin-left: 1 em;
 }
 
 h1, h3 {
