@@ -10,9 +10,7 @@ div.jumbotron {
   background: #E9FF70;
 }
 
-ul.nav nav-pills pull-right {
-  background: #E9FF70;
-}
+
 
 a:link {
   color: #483D8B;
@@ -37,6 +35,7 @@ a {
 
 body {
   font-family: "Avenir Next";
+  font: #787F65;
 }
 
 h1 {
