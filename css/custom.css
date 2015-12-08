@@ -57,8 +57,9 @@ p {
   padding bottom: 30px;
 }
 
-.indent {
+p.indent {
   font-style: italic;
+  text-indent: 50px;
 }
 
 h1, h3 {
