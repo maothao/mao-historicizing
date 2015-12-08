@@ -2,6 +2,10 @@ nav {
   font-size: 100%;
 }
 
+body {
+  background-color: F6FFC9;
+}
+
 
 a:link {
   color: #483D8B;
