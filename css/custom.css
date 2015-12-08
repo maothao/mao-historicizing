@@ -1,5 +1,9 @@
 nav {
-  font-size: 85%;
+  font-size: 90%;
+  background-color: #BACC64;
+}
+
+a.navbar-brand {
   background-color: #BACC64;
 }
 
