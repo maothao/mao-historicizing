@@ -1,9 +1,9 @@
 nav {
-  font-size: 90%;
+  font-size: 100%;
   background-color: #BACC64;
 }
 
-ul.nav navbar-nav {
+div.navbar-collapse collapse {
   background-color: #BACC64;
 }
 
