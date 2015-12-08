@@ -10,7 +10,9 @@ div.jumbotron {
   background: #E9FF70;
 }
 
-
+ul.av nav-pills pull-right {
+  background: #E9FF70;
+}
 
 a:link {
   color: #483D8B;
