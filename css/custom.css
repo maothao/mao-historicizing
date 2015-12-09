@@ -3,7 +3,7 @@ nav {
   background-color: #BACC64;
 }
 
-div.navbar-collapse collapse {
+nav.navbar navbar-default navbar-fixed-top {
   background-color: #BACC64;
 }
 
