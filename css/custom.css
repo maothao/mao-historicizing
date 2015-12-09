@@ -58,7 +58,7 @@ p {
 }
 
 p.indent {
-  font-style: italic;
+  font-style: italic; bold; 
   margin-left: 5cm;
 }
 
