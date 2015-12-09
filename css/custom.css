@@ -58,8 +58,8 @@ p {
 }
 
 p.indent {
-  font-style: italic; bold; 
-  margin-left: 5cm;
+  font-style: italic, bold;
+  margin-left: 3cm;
 }
 
 h1, h3 {
