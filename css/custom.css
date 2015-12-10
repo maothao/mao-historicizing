@@ -39,7 +39,10 @@ body {
   font: #7B7F65;
 }
 
-
+figure figcaption {
+  text-align: center;
+  font-style: italic;
+}
 
 h1 {
   font-size: 250%;
