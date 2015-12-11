@@ -42,6 +42,9 @@ body {
 figure figcaption {
   text-align: center;
   font-style: italic;
+}
+
+figure.block {
   margin-left: auto;
   margin-right: auto;
 }
