@@ -89,6 +89,7 @@ img.side {
   display: inline-block;
   margin-left: auto;
   margin-right: auto;
+  height: 30px;
 }
 
 img, figcaption {
