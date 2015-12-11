@@ -85,11 +85,9 @@ img.block {
   margin-right: auto;
 }
 
-img.side {
-  display: inline-block;
-  margin-left: auto;
-  margin-right: auto;
-  height: 30px;
+div.side {
+  display: table;
+  margin: 0 auto;
 }
 
 img, figcaption {
